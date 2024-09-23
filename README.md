@@ -1,1 +1,1 @@
-Practice Session of Basic html and css was used to design this
+html and css sessions was used for this design.
