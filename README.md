@@ -1,1 +1,2 @@
-html and css sessions was used for this design.
+Welcome to Hobleton, a webpage designed for A SMEs that focuses in selling headphones.
+
